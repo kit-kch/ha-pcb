@@ -1,0 +1,9 @@
+The files in this library were taken from:
+
+FUSE_2016L050_LTF.step: https://www.digikey.in/en/models/1211281 (Ultra Librarian)
+FUSER_2016L050MR.kicad_mod: https://www.snapeda.com/parts/2016L050MR/Littelfuse%20Inc./view-part/
+GCT_USB4110-GF-A_REVB.kicad_mod: https://www.snapeda.com/parts/USB4110GFA/Global%20Connector%20Technology/view-part/
+slide_switch.step: https://grabcad.com/library/slide-switch-excel-esp1010-1
+USB4110-GF-A_REVB.step: https://www.snapeda.com/parts/USB4110GFA/Global%20Connector%20Technology/view-part/
+
+All other files from KIT, KCH, ITIV. Converted with KiCad image converter.
